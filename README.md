@@ -39,3 +39,5 @@ image_feature_0 to image_feature_2047	ResNet-extracted image features (2048-dim)
 label_image	Informative (1) or Non-informative (0) for image
 
 This processed dataset is now fully ready to be used for training advanced multi-modal deep learning models, combining both textual and visual inputs to improve crisis detection and classification tasks during emergencies.
+
+LINK TO THE DATASET: https://huggingface.co/datasets/Henishma/cleaned_crisisMMD
